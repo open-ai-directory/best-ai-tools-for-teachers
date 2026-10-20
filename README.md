@@ -102,6 +102,7 @@
 
 - **[Edthena (AI Coach)](https://www.edthena.com/ai-coach-for-teachers/)** — Browser-based virtual coach that analyzes uploaded classroom video and prompts self-paced teacher reflection. `Paid (enterprise/custom pricing)`
 - **[Observation Copilot](https://observationcopilot.com/)** — Turns a coach's pasted classroom-visit notes into structured, framework-aligned observation feedback. `Free`
+- **[Observation Partner](https://observationpartner.com/)** — AI-assisted classroom observation feedback and observation tracking for K-12 school leaders. `Freemium`
 - **[Sibme](https://www.sibme.com/)** — K-12 coaching platform for recording, sharing, and annotating classroom video with AI-assisted talk analysis. `Paid (enterprise/custom pricing)`
 - **[Steplab](https://steplab.co/)** — Professional-development platform with an AI-driven coaching engine that scaffolds feedback sessions between coaches and teachers. `Paid (enterprise/custom pricing)`
 - **[TeachFX](https://teachfx.com/)** — Records classroom audio and reports teacher-vs-student talk time, question types, and academic vocabulary use. `Freemium`
