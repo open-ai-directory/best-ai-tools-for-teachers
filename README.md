@@ -69,6 +69,7 @@
 - **[Conker](https://www.conker.ai/)** — Generates multiple-choice, true/false, and short-answer quizzes from a topic, PDF, article, or YouTube video. `Freemium`
 - **[Formative](https://www.formative.com/)** — Live-response assessment platform whose Luna AI assistant drafts standards-aligned activities from a prompt or document. `Freemium`
 - **[Kahoot!](https://kahoot.com/schools/)** — Turns a topic, PDF, or scanned notes into a game-show-style quiz for live or self-paced play. `Freemium`
+- **[ModuMath](https://math.hjinlabs.com/)** — Turns a typed or photographed math problem into step-by-step explanations and a similar question for students to solve independently. `Free`
 - **[Wayground (formerly Quizizz)](https://wayground.com/)** — AI-generated quizzes, interactive video lessons, and analytics for teachers; rebranded from Quizizz in 2025. `Freemium`
 - **[Wooclap](https://www.wooclap.com/en/)** — Quiz Wizard generates a short quiz from a topic or uploaded document for live classroom polling. `Freemium`
 - **[Yippity](https://yippity.io/)** — Turns pasted notes, a PDF, or a link into editable practice questions teachers can share or export. `Freemium`
